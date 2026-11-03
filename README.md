@@ -1,11 +1,10 @@
-<img align="left" src="https://media1.tenor.com/m/h47J-UfoPRoAAAAC/hello-kitty.gif" width="200" hspace="24" alt="Animated character" />
-
-### Hi, I'm Alessandro.
-
-**Platform Engineer** — automation & homelab enthusiast.
-
-I automate the repetitive stuff and give spare hardware a second life.
-
-<sub>Off-screen: guitar & piano · mountains · anime · retro games</sub>
+<p>
+  <img align="left" src="https://media1.tenor.com/m/h47J-UfoPRoAAAAC/hello-kitty.gif" width="180" alt="Animated character" />
+  <br />
+  &emsp;&emsp;<strong>Hi, I’m Alessandro.</strong><br />
+  &emsp;&emsp;Platform Engineer<br /><br />
+  &emsp;&emsp;Automation, spare hardware, and a homelab.<br />
+  &emsp;&emsp;<sub>Guitar &amp; piano · Mountains · Anime · Retro games</sub>
+</p>
 
 <br clear="all" />
