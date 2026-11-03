@@ -1,15 +1,13 @@
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="50%"><img src="https://media1.tenor.com/m/h47J-UfoPRoAAAAC/hello-kitty.gif" width="245" alt="Hello Kitty animated GIF" /></td>
+<td width="260" align="center" valign="middle">
+<img src="https://media1.tenor.com/m/h47J-UfoPRoAAAAC/hello-kitty.gif" width="220" alt="Hello Kitty animated GIF" />
+</td>
+<td valign="middle">
+<h2>Hi, I'm Alessandro.</h2>
+<p><code>Platform Engineer</code></p>
+<p>Turning repetitive work into automation<br />and spare hardware into a homelab.</p>
+<p><sub>Guitar &amp; piano · Mountains · Anime · Retro games</sub></p>
+</td>
 </tr>
 </table>
-
-</div>
-
-## `> whoami`
-
-I'm a **Platform Engineer** who enjoys turning repetitive work into automation and spare hardware into a homelab.
-
-When I'm away from terminals, you'll usually find me playing **guitar or piano**, heading toward the **mountains**, watching **anime**, or revisiting a **retro game**.
